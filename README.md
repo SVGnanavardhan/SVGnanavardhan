@@ -61,6 +61,6 @@ A 5-agent autonomous repair pipeline that reduced CI/CD debugging time by 60%, u
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SVGnanavardhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SVGnanavardhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SVGnanavardhan&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
+[![Gnanavardhan's GitHub stats](https://github-readme-stats.shion.dev/api?username=SVGnanavardhan&theme=dark)](https://github.com/SVGnanavardhan)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SVGnanavardhan&theme=dark&short_numbers=true)](https://git.io/streak-stats)<br/>
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SVGnanavardhan&theme=dark&hide_border=false&include_all_commits=false&layout=compact)](https://github.com/SVGnanavardhan)
